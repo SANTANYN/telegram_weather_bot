@@ -1,0 +1,2 @@
+open_weather_auth_token = "2527e2b49313a113fde79fb64c12f322"
+telegram_bot_auth_token = "5137987012:AAF76P28ENcNRX9yjPWTfo8Ll-G1WuRgNHg"
